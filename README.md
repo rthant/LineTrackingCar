@@ -5,4 +5,4 @@ The project involved using a robot car to follow a black line by utilizing three
 https://splice.gopro.com/v?id=qpZp5o
 
 
-To get this code to work on your FRDM KL25Z, you must download Keil uVision and configure your computer to interface with the microprocessor. The code can be seen in the asm_main.s file. If you are having problems, follow NJIT's installation and setup guide in the ECE395 Lab manual. http://ecelabs.njit.edu/ece395/ECE395_Manual_v3.17.pdf
+To get this code to work on your FRDM KL25Z, you must download Keil uVision and configure your computer to interface with the microprocessor. The code can be seen in the asm_main.s file. If you are having problems, follow NJIT's installation and setup guide in the ECE395 Lab manual: http://ecelabs.njit.edu/ece395/ECE395_Manual_v3.17.pdf
